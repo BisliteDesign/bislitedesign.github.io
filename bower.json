@@ -1,0 +1,27 @@
+{
+  "name": "test-repo",
+  "description": "<h1>Hi this is test repository</h1>",
+  "main": "index.js",
+  "authors": [
+    "andrey <andreyvolochnyuk@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/AndreyVolochnyuk/bizlite",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "slick-carousel": "^1.6.0",
+    "requirejs": "^2.3.2",
+    "domready": "^1.0.8",
+    "isotope": "^3.0.1",
+    "matches-selector": "^2.0.1",
+    "requirejs-plugins": "^1.0.3"
+  },
+  "moduleType": []
+}
